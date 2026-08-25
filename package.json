@@ -1,0 +1,20 @@
+{
+  "name": "pratica 2° de Desenvolvimento para Dispositivos Móveis",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "expo": "~57.0.15",
+    "expo-status-bar": "~57.0.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-native": "0.86.2",
+    "react-native-web": "^0.21.2"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "private": true
+}
