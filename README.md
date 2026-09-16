@@ -1,3 +1,7 @@
-- Desenvolvimento para Dispositivos Móveis (INF204)
-- Caio Sampaio - 27174
-- Derick Gomes - 27391
+-# INF204 - Desenvolvimento para Dispositivos Móveis
+
+## Integrantes
+
+- Nome da sua Dupla 
+- Derick Gomes Costa — Matrícula: 27391
+- Caio Sampaio de Oliveira — Matrícula: 27174
