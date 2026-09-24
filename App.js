@@ -14,12 +14,13 @@ export default function Contador() {
              <Button
                  title="Incrementar +1"
                  onPress={() => setContagem(contagem + 1)}
-        />
+        /> 
              <Button
                  title="Descrementar -1"
                  onPress={() => setContagem(contagem - 1)}
+                 disabled = {contagem ===0}
         />
-            <Button
+            <Buttwon
                  title="Zerar "
                  onPress={() => setContagem(0)}
         />
